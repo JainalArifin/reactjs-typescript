@@ -13,6 +13,9 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
+    "tslint": "^6.1.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^4.2.0",
     "typescript": "~3.7.2"
   },
   "scripts": {
